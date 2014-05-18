@@ -1,0 +1,9 @@
+[submodule "library/mootools-core"]
+	path = library/mootools-core
+	url = git@github.com:mootools/mootools-core.git
+[submodule "library/mootools-more"]
+	path = library/mootools-more
+	url = git@github.com:mootools/mootools-more.git
+[submodule "library/jquery"]
+	path = library/jquery
+	url = git@github.com:jquery/jquery.git
