@@ -7,3 +7,12 @@
 [submodule "library/jquery"]
 	path = library/jquery
 	url = git@github.com:jquery/jquery.git
+[submodule "framework/bootstrap"]
+	path = framework/bootstrap
+	url = git@github.com:twbs/bootstrap.git
+[submodule "framework/semanticui"]
+	path = framework/semanticui
+	url = git@github.com:Semantic-Org/Semantic-UI.git
+[submodule "framework/foundation"]
+	path = framework/foundation
+	url = git@github.com:zurb/foundation.git
